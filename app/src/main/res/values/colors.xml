@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4b5b8c</color>
+    <color name="colorPrimaryDark">#122a6d</color>
+    <color name="colorAccent">#77475f</color>
+    <color name="blue">#096096</color>
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <color name="dark_grey">#475b6d</color>
+    <color name="light_blue">#4b5b8c</color>
+    <color name="back">#625664</color>
+    <color name="ocean">#0098b2</color>
+    <color name="ocean_plus">#122a6d</color>
+    <color name="grey">#77475f</color>
+</resources>
